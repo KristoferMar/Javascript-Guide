@@ -17,6 +17,7 @@
 //   .then(res => console.log(res))
 //   .catch(err => console.log(err));
 
+// Async creates a promise
 async function getUsers() {
   // await response of the fetch call
   const response = await fetch('https://jsonplaceholder.typicode.com/users');
