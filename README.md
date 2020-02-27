@@ -17,3 +17,10 @@ There are two types of datatypes
 - Reference Data Types: Accessed by reference. Objects that are stored on the heap. A pointer to a location in memory. 
 
 Learn more in under js_basics --> datatypes.js
+
+### Async javaScript
+
+There are a few ways to work with Async code 
+- Callbacks
+- Promises
+- Async/Await
