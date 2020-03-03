@@ -4,6 +4,7 @@
 // Simple example
 let arr = [1, 2, 3, 4, 5];
 let sum = arr.reduce((x, y) => x + y);
+console.log(sum, "total sum");
 
 // Object example
 const members = [
@@ -12,6 +13,7 @@ const members = [
     {name: "Janne", age: 25},
     {name: "Martin", age: 22},
 ];
+
 let initialValue = 0;
 let reducer = members.reduce((accumulator, member, index, arr) => {
     return accumulator + member.age / arr.length
@@ -19,10 +21,7 @@ let reducer = members.reduce((accumulator, member, index, arr) => {
 
 console.log(reducer, "Gennemsnits alder")
 
-function accumulator(obj) {
-    return obj.age + 2;
-}
-
+// To visualize results in browser
 var output = document.createElement("P");
 output.innerText = `Output: ${reducer}`;
 document.body.appendChild(output);
