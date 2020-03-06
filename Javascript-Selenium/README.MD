@@ -5,7 +5,7 @@ We can use Selenium to create automotive browser processes.
 ### How to use
 
 Install selenium-webdriver by running<br>
-<b>npm i selenium-webdriver</b><br>
+<b>npm install --save selenium-webdriver</b><br>
 
 Install chromedriver or another browser driver like below <br>
 <b>npm install --save chromedriver</b> 
