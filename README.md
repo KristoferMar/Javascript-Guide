@@ -1,8 +1,16 @@
-# Javascript knowledge central
+<h1>Javascript knowledge central</h1>
 
-## Javascript fundamentals
+<h2>Javascript fundamentals</h2>
+Javascript is is one of the core technologies of the World Wide Web. It's a core programming language in most frontend framework and is also widely used in node.js for backend development. 
 
-### Variables - var, let & const
+<h2>How to use</h2>
+Javascript files can be executed in the following way in this project. <br><br>
+<i>node script.js </i> <br><br>
+
+It's also possible to run javascipt files through index.html files with the '<'script> reference. <br>
+
+<br>
+<h3> Variables - var, let & const </h3>
 
 We should always go with let and cost as our variable choice. 
 
@@ -10,7 +18,7 @@ We should always go with let and cost as our variable choice.
 - let has a more local scope which lets us control our variables better. It's also changeable.
 - const is a static constant which cannot be reassigned or changed once set. 
 
-### Data Types in Javascript
+<h3>Data Types in Javascript </h3>
 
 There are two types of datatypes
 - Primitive Data Types: are stored directly in the location the variable accesses. Stored on the stack. 
@@ -18,7 +26,7 @@ There are two types of datatypes
 
 Learn more in under js_basics --> datatypes.js
 
-### Async javaScript
+<h2> Async javaScript </h2>
 
 There are a few ways to work with Async code 
 - Callbacks

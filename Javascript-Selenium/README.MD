@@ -1,8 +1,8 @@
-# Javascript Automation
+<h1> Javascript Automation <h1>
 
 We can use Selenium to create automotive browser processes. 
 
-### How to use
+<h3> How to use <h3>
 
 Install selenium-webdriver by running<br>
 <b>npm install --save selenium-webdriver</b><br>
@@ -15,7 +15,7 @@ Then we are able to run selenium script by navigating to a given "js" scritp pat
 
 <b>node <-YourJavascriptFile.js-></b>
 
-### Documentation 
+<h3>Documentation</h3>
 
 More automation documentation of selenium + javascript can be found below <br>
 
