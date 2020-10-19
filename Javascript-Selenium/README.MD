@@ -21,6 +21,13 @@ More automation documentation of selenium + javascript can be found below <br>
 
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Your_own_automation_environment
 
+<br> <br>
+
+Official selenium documentation usage <br>
+
+https://www.selenium.dev/documentation/en/getting_started/ 
+
+<br>
 <h3>Information</h3>
 
 Usefull article that explains how selenium is created and how we use it effectevly with javascript. <br>
