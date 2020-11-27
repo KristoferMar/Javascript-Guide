@@ -14,6 +14,7 @@ const sym = Symbol();
 // -- Reference tyoes --
 // Arrays
 const array = ['1', '2', '3'];
+
 // Object literals
 const address = {
     city: 'Buston',

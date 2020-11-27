@@ -18,7 +18,6 @@ console.log(square(9));
 
 // IMMIDIATLY INVOKABLE FUNCTION EXPRESSIONS - IIFEs
 // it's a function you declare and run at the same time.
-
 (function(name) {
     console.log('IIFE Ran...');
     console.log(`${name} is here`)
@@ -26,7 +25,6 @@ console.log(square(9));
 
 
 // PROPERTY METHODS
-
 const todo = {
     add: function(){
         console.log('Add todo..');
@@ -43,3 +41,20 @@ todo.delete = function(){
 todo.add();
 todo.edit(22);
 todo.delete();
+
+
+// Arrow functions
+// Arrow functions are annonymous functions with no names. 
+
+//Function
+hello = function() {
+    return "Hello World!";
+  }
+
+// Arrow function
+hello = () => "Hello World!";
+// or
+hello = (val) => "Hello " + val;
+
+
+
