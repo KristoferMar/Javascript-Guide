@@ -32,3 +32,14 @@ There are a few ways to work with Async code
 - Callbacks
 - Promises
 - Async/Await
+
+<h2>Javascript basics</h2>
+
+link<br>
+
+<h2>Javascript Functions</h2>
+
+link:<br>
+
+
+
