@@ -44,4 +44,10 @@ link:<br>
 <i>https://github.com/KristoferMar/Javascript-Guide/tree/master/Javascript_functions</i>
 
 
+<h2>Javascript libraries</h2>
+
+<h3>Axios</h3>
+One of the most popular Javascript libraries used to make HTTP requests from Node.js or XMLHttpRequests from the browser that also supports the ES6 Promise API. <br>
+link: <br>
+https://www.npmjs.com/package/axios <br>
 
