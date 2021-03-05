@@ -58,6 +58,9 @@ function under50(num) {
     return num < 50;
 }
 
+// Check if array is empty
+if (arr.length === 0) { console.log("Array is empty!") }
+
 val = numbers.find(under50);
 
 console.log(numbers);
