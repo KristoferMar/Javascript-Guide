@@ -12,7 +12,7 @@ Javascript projects can be both very small and large, in javascript we refer to 
 A moduele can be both exported and importet into other modules and they can hold classes, functions or even just individual variables. <br>
 
 More about modules<br>
-link<br>
+https://github.com/KristoferMar/Javascript-Guide/tree/master/modules<br>
 
 <h2>How to use</h2>
 Javascript files can be executed in the following way in this project. <br><br>
