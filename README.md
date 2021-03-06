@@ -35,6 +35,9 @@ There are a few ways to work with Async code
 
 <h2>Javascript basics</h2>
 
+Includes<br>
+<i>arrays, hashmaps, strings, Date&time, keywords etc</i><br>
+<br>
 link<br>
 <i>https://github.com/KristoferMar/Javascript-Guide/tree/master/Javascript_basics</i>
 
