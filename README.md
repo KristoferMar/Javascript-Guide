@@ -6,14 +6,14 @@ Javascript is is one of the core technologies of the World Wide Web. It's a core
 
 <h2>What is it?</h2>
 Javascript is impeded in most browsers these days and compilers for javascript are therefore all over the internet all the time. <br>
-
+<br>
 Javascript projects can be both very small and large, in javascript we refer to a single ".js" file as a javascript module. <br>
+<br>
 A moduele can be both exported and importet into other modules and they can hold classes, functions or even just individual variables. <br>
 
-Read more about structure<br>
+More about modules<br>
 link<br>
 
-<br>
 <h2>How to use</h2>
 Javascript files can be executed in the following way in this project. <br><br>
 <i>node script.js </i> <br><br>
