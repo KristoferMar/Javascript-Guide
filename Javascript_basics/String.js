@@ -1,10 +1,11 @@
+// JavaScript strings are used for storing and manipulating text.
+
 const firstName = 'Williams';
 const lastName = 'Johnson';
 const age = 24;
 const str = 'Hello there, my name is Brad';
 
 let val;
-
 val = firstName + lastname;
 
 //Concatenation
