@@ -43,13 +43,13 @@ Includes<br>
 <i>array, hashmap, strings, Date&time, keywords, etc</i><br>
 <br>
 link<br>
-<i>https://github.com/KristoferMar/Javascript-Guide/tree/master/Javascript_basics</i>
+<i>https://github.com/KristoferMar/Javascript-Guide/tree/master/basics</i>
 
 
 
 <h2>Javascript Functions</h2>
 link:<br>
-<i>https://github.com/KristoferMar/Javascript-Guide/tree/master/Javascript_functions</i>
+<i>https://github.com/KristoferMar/Javascript-Guide/tree/master/functions</i>
 
 
 
